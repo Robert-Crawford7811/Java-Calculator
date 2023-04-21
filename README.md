@@ -3,4 +3,4 @@ A calculator that can use the quadratic equation to determine the number and val
 
 # What I learned
 * importing utilities for Java Programs Arithmetic
-* incorporating mathematical concepts to be usable by programs
+* incorporating mathematical concepts in programs
